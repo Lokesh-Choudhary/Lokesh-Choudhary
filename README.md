@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ...Full Stack Development
 - 👯 I’m looking to collaborate on ...Web Development Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...Improving Tech 
 - 💬 Ask me about ...Technology
 - 📫 How to reach me: ... Instagram :- lokeshchoudhary_7390
 Twitter:- Lokesh_7377
